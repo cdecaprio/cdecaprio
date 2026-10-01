@@ -9,7 +9,7 @@
 💻 **Desarrolladora Full-Stack** con experiencia construyendo aplicaciones de extremo a extremo  
 🎨 Del frontend al backend, del diseño a la base de datos — me gusta dominar todo el ciclo  
 🐍 Actualmente aprendiendo **Python** y explorando sus posibilidades  
-📚 Siempre aprendiendo algo nuevo, desde frameworks hasta arquitectura cloud  
+📚 Siempre aprendiendo algo nuevo 
 🤝 Disfruto colaborar en proyectos open source y comunidades tech  
 ☕ Funcionando con café y buena música  
 
